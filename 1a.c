@@ -12,6 +12,8 @@
 int main() {
   int n, m, a;
   scanf("%d %d %d", &n, &m, &a);
-  printf("%d\n", ((n + a - 1) / a) * ((m + a -  1) / a));
+  long x = (n + a - 1) / a;
+  long y = (m + a - 1) / a;
+  printf("%ld\n", x * y);
   return 0;
 }
