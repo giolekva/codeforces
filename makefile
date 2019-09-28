@@ -9,12 +9,12 @@ CC = gcc
 
 SRCS := $(wildcard *.c)
 BINS := $(SRCS:%.c=%)
+OUT := $(foreach c, $(BINS), $(c).out)
 
 all: ${BINS}
 
 %: %.c
 	${CC} -o $@.out $<
 
-
 clean:
-	rm -rvf ${BINS}.out
+	rm -rvf ${OUT}
