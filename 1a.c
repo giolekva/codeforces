@@ -12,8 +12,12 @@
 int main() {
   int n, m, a;
   scanf("%d %d %d", &n, &m, &a);
-  long x = (n + a - 1) / a;
-  long y = (m + a - 1) / a;
-  printf("%ld\n", x * y);
+  // We use unsignd long long type so that we can store maximum possible
+  // solution ever possible on this problem, which is in the case of when
+  // |n| == |m| == 1 000 000 000  and |a| == 1.
+  unsigned long long x = (n + a - 1) / a;
+  unsigned long long y = (m + a - 1) / a;
+  // Here we use %llu modifier to print unsigned long long.
+  printf("%llu\n", x * y);
   return 0;
 }
