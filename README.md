@@ -14,3 +14,4 @@ description first then followed with actual implementation.
 * Drinks https://codeforces.com/problemset/problem/200/B
 * About bacteria https://codeforces.com/problemset/problem/198/A
 * Winnie-the-Pooh and honey https://codeforces.com/problemset/problem/120/C
+* Little Elephant and Function https://codeforces.com/problemset/problem/221/A
