@@ -15,3 +15,9 @@ description first then followed with actual implementation.
 * About bacteria https://codeforces.com/problemset/problem/198/A
 * Winnie-the-Pooh and honey https://codeforces.com/problemset/problem/120/C
 * Little Elephant and Function https://codeforces.com/problemset/problem/221/A
+* Chips https://codeforces.com/problemset/problem/92/A
+* Rational Resistance https://codeforces.com/problemset/problem/343/A
+* Vitaly and Night https://codeforces.com/problemset/problem/595/A
+* Two Problems https://codeforces.com/problemset/problem/203/A
+* System of Equations https://codeforces.com/problemset/problem/214/A
+* Good Matrix Elements https://codeforces.com/problemset/problem/177/A1
