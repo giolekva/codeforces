@@ -21,3 +21,10 @@ description first then followed with actual implementation.
 * Two Problems https://codeforces.com/problemset/problem/203/A
 * System of Equations https://codeforces.com/problemset/problem/214/A
 * Good Matrix Elements https://codeforces.com/problemset/problem/177/A1
+
+***Arrays***
+* Cableway https://codeforces.com/problemset/problem/90/A
+* Presents https://codeforces.com/problemset/problem/136/A
+* Effective Approach https://codeforces.com/problemset/problem/227/B
+* Number of Ways https://codeforces.com/problemset/problem/466/C
+* Game on Paper https://codeforces.com/problemset/problem/203/B
