@@ -28,3 +28,4 @@ description first then followed with actual implementation.
 * Effective Approach https://codeforces.com/problemset/problem/227/B
 * Number of Ways https://codeforces.com/problemset/problem/466/C
 * Game on Paper https://codeforces.com/problemset/problem/203/B
+* Cosmic Tables https://codeforces.com/problemset/problem/222/B
